@@ -1,1 +1,1 @@
-{"version":3,"sources":["../sass/style.sass","style.css"],"names":[],"mappings":"AAAA;EACE,YAAA;ACCF","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/_interface.sass","../sass/blocks/_navbar.sass"],"names":[],"mappings":"AAAA;EACE;EACA;;;ACDA;EACE;EACA;EACA","file":"style.css"}
